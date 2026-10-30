@@ -23,7 +23,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 2',
                 'vaccine' => 'Pentavalent',
                 'dose' => '2nd dose',
-                'scheduled_at' => '2026-10-15',
+                'scheduled_at' => '2026-09-03',
                 'status' => 'Done',
             ],
             [
@@ -31,7 +31,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 3',
                 'vaccine' => 'OPV',
                 'dose' => '1st dose',
-                'scheduled_at' => '2026-11-08',
+                'scheduled_at' => '2026-08-19',
                 'status' => 'Scheduled',
             ],
             [
@@ -39,7 +39,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 4',
                 'vaccine' => 'MMR',
                 'dose' => '1st dose',
-                'scheduled_at' => '2026-10-10',
+                'scheduled_at' => '2026-04-05',
                 'status' => 'Overdue',
             ],
             [
@@ -47,7 +47,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 5',
                 'vaccine' => 'Anti-Flu',
                 'dose' => 'Annual',
-                'scheduled_at' => '2026-11-12',
+                'scheduled_at' => '2026-12-29',
                 'status' => 'Scheduled',
             ],
             [
@@ -55,7 +55,7 @@ class VaccinationSeeder extends Seeder
                 'purok' => 'Purok 6',
                 'vaccine' => 'Anti-Rabies',
                 'dose' => '1st dose',
-                'scheduled_at' => '2026-10-20',
+                'scheduled_at' => '2026-01-05',
                 'status' => 'Done',
             ],
         ];

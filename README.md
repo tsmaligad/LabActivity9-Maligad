@@ -26,7 +26,7 @@ It uses Blade templates for the layouts and components, Tailwind CSS for respons
 
 ## Installation
 
-1. Clone the repository and open the project folder.
+1. Clone the repository, then open the LabActivity9-Maligad subfolder containing artisan, composer.json, and package.json.
 2. Install PHP dependencies using `composer install`.
 3. Install JavaScript dependencies using `npm install`.
 4. Copy `.env.example` to `.env`.
